@@ -1,0 +1,22 @@
+.card-container {
+  display: flex;
+  gap: 0.5rem;
+  width: 90%;
+  height: 12.5rem;
+  padding: 1rem 0.5rem;
+  border: solid 1px red;
+  margin-top: 1rem;
+  border-radius: 0.5rem;
+}
+
+.card-image {
+  height: 100%;
+  aspect-ratio: 99/100;
+}
+
+.card-content {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  width: 100%;
+}
