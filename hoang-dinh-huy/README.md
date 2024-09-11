@@ -10,9 +10,9 @@ Currently, two official plugins are available:
 
 The following steps to run the source code:
 
-cd hoang-dinh-huy
-npm install
-npm run dev
+- cd hoang-dinh-huy
+- npm install
+- npm run dev
 
 About question 2:
 I used Highcharts library to create a candle-stick chart.
